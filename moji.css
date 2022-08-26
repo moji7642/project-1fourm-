@@ -1,0 +1,17 @@
+ul > li {
+    text-align: center;
+    color: blueviolet;
+
+}
+ol  li {
+    text-align: right;
+    color: tomato;
+}
+dl , div {
+    text-align: left;
+    background-color: orange;
+}
+form ~ table {
+    text-align: center;
+    background-color: brown;
+}
